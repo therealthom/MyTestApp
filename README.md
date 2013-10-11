@@ -1,4 +1,4 @@
 MyTestApp
 =========
 
-My test app
+Esta es una aplicación de prueba.
